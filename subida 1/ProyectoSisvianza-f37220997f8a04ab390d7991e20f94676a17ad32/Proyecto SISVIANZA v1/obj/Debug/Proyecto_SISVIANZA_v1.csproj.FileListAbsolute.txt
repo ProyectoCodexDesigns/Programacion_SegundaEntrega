@@ -1,0 +1,675 @@
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\netstandard.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.AppContext.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Console.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Data.Common.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipes.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Http.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Ping.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Requests.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Security.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Sockets.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ObjectModel.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Writer.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Claims.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.SecureString.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Thread.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Timer.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ValueTuple.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Memory.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Memory.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.AssemblyReference.cache
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAdministrador.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.login.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Properties.Resources.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.GenerateResource.cache
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CopyComplete
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.pdb
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.pdb
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAtencionAlPublico.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioSeguridad.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioClientes.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioInformatico.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioEstados.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioUsuarios.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioPedidos.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioEncargadoTransporte.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioGerente.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioJefeDeCocina.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioMensaje.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioAsignarRuta.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioGestionarPedidos.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioVehiculos.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioStock.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioReporte.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioDatosEstadisticos.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioMenus.resources
+C:\Users\Esteban\source\Workspaces\Sisvianza-\codigo SISVIANZA\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioViandas.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.pdb
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\netstandard.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.AppContext.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Console.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Data.Common.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipes.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Http.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Ping.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Requests.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Security.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.Sockets.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ObjectModel.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Reader.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Writer.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Claims.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.SecureString.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Thread.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Timer.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.ValueTuple.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Memory.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Loader.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.pdb
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Memory.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.AssemblyReference.cache
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAtencionAlPublico.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioEncargadoTransporte.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioGerente.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioJefeDeCocina.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioSeguridad.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioClientes.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioInformatico.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioEstados.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioUsuarios.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAdministrador.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.login.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioPedidos.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioMensaje.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioAsignarRuta.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioGestionarPedidos.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioReporte.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioVehiculos.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioDatosEstadisticos.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioStock.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioMenus.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioViandas.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Properties.Resources.resources
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.GenerateResource.cache
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CoreCompileInputs.cache
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CopyComplete
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\MiniNachito\Downloads\Proyecto SISVIANZA v1\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.pdb
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.pdb
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\netstandard.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.AppContext.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Console.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Data.Common.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipes.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Http.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Ping.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Requests.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Security.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Sockets.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ObjectModel.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Writer.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Claims.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.SecureString.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Thread.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Timer.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ValueTuple.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Memory.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Memory.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe.config
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAtencionAlPublico.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioEncargadoTransporte.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioGerente.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioJefeDeCocina.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioSeguridad.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioClientes.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioInformatico.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioEstados.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioUsuarios.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAdministrador.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.login.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioPedidos.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioMensaje.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioAsignarRuta.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioGestionarPedidos.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioReporte.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioVehiculos.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioDatosEstadisticos.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioStock.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioMenus.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioViandas.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Properties.Resources.resources
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.GenerateResource.cache
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CopyComplete
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe
+C:\Users\Diego\OneDrive\Escritorio\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.pdb
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe.config
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.exe
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Proyecto SISVIANZA v1.pdb
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\netstandard.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.AppContext.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Concurrent.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.NonGeneric.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Collections.Specialized.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Console.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Data.Common.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Contracts.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Debug.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Process.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tools.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Diagnostics.Tracing.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Drawing.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Dynamic.Runtime.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Calendars.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Globalization.Extensions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.IsolatedStorage.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipes.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Expressions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Parallel.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Linq.Queryable.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Http.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.NameResolution.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.NetworkInformation.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Ping.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Requests.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Security.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.Sockets.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.Client.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Net.WebSockets.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ObjectModel.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Extensions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Reflection.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Reader.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.ResourceManager.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Resources.Writer.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Extensions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Handles.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Numerics.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Claims.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.SecureString.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.RegularExpressions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Overlapped.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Thread.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.ThreadPool.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Timer.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.ValueTuple.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.ReaderWriter.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XDocument.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlDocument.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XmlSerializer.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Memory.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.Loader.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\BouncyCastle.Crypto.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.pdb
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Google.Protobuf.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\K4os.Hash.xxHash.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\MySql.Data.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Buffers.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.IO.Pipelines.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Memory.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Numerics.Vectors.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.AccessControl.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Permissions.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Security.Principal.Windows.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Encodings.Web.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Text.Json.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.AssemblyReference.cache
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.SuggestedBindingRedirects.cache
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe.config
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAtencionAlPublico.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioEncargadoTransporte.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioGerente.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioJefeDeCocina.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioSeguridad.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioClientes.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioInformatico.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioEstados.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelInformatico.formularioUsuarios.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.formularioAdministrador.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.login.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDelAdministrador.formularioPedidos.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico.formularioMensaje.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioAsignarRuta.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioGestionarPedidos.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioReporte.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasEncargadoDeTransporte.formularioVehiculos.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioDatosEstadisticos.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasGerente.formularioStock.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioMenus.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Presentacion.VentanasJefeDeCocina.formularioViandas.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.Properties.Resources.resources
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.GenerateResource.cache
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CoreCompileInputs.cache
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto_SISVIANZA_v1.csproj.CopyComplete
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.exe
+D:\SegundaEntrega\Programación\Programacion\ProyectoSisvianza-f37220997f8a04ab390d7991e20f94676a17ad32\Proyecto SISVIANZA v1\obj\Debug\Proyecto SISVIANZA v1.pdb
