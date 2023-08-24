@@ -1,6 +1,8 @@
 ﻿namespace Proyecto_SISVIANZA_v1.Logica
 {
-    //Atajos:  
+   /// <summary>
+   /// /Atajos:  
+   /// </summary>
 
     //Ctrl+A+K+F : Ordena el codigo
 
