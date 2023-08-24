@@ -203,9 +203,9 @@ namespace Proyecto_SISVIANZA_v1.Presentacion.VentanasDeAtencionAlPúblico
                 
                 MessageBox.Show("El cliente ha sido enviado al administrador exitosamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 
-                formularioAdministrador admin = new formularioAdministrador();
+                //formularioAdministrador admin = new formularioAdministrador();
                 
-                admin.Show();
+                //admin.Show();
 
             }
         }
