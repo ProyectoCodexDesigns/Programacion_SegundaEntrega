@@ -1,5 +1,0 @@
-localhost
-root
-
-proyectosisvianza
-3570
